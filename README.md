@@ -6,7 +6,7 @@ Below they are listed in order of when they were completed
 We re-derived and explored several regression methods for minimization such as LASSO, Elasticnet, and Tikhonov regression. 
 The code used to produce the plots is contained inside `numerical_project_code`
 
-* 'analysis_2_project.pdf` is the writeup for a real analysis project created in collaboration with Zikra Hashmi and Tyler Jensen.
+* `analysis_2_project.pdf` is the writeup for a real analysis project created in collaboration with Zikra Hashmi and Tyler Jensen.
 We constructed the real numbers using Dedekind Cuts with few mathematical assumptions as an exercise after two 
 semesters of real analysis. 
 
