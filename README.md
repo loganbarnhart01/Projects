@@ -1,6 +1,6 @@
 # Projects
 This repository contains the writeups / code for various projects I've conducted throughout my education. 
-Below they are listed in order of when they were completed
+Below they are listed from most recent project to oldest
 
 * `numerical_analysis_project.pdf` is my most recent project (as of 2/23/2023), in collaboration with Tyler Jensen and Alexey Yermakov. 
 We re-derived and explored several regression methods for minimization such as LASSO, Elasticnet, and Tikhonov regression. 
